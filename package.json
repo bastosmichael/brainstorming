@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "stripe:listen": "stripe listen --forward-to https://original-chicken-343.convex.site/stripe",
+    "test": "echo \"No test suite\"",
     "stripe:trigger": "stripe trigger payment_intent.succeeded"
   },
   "dependencies": {
