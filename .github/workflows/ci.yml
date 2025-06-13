@@ -14,11 +14,11 @@ jobs:
       CONVEX_DEPLOYMENT: dummy
       NEXT_PUBLIC_CONVEX_URL: https://example.convex.cloud
       NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY: dummy
-      CLERK_SECRET_KEY: dummy
-      LIVEBLOCKS_SECRET_KEY: dummy
+      CLERK_SECRET_KEY: sk_test_dummy
+      LIVEBLOCKS_SECRET_KEY: sk_test_dummy
       NEXT_PUBLIC_APP_URL: http://localhost:3000
-      STRIPE_API_KEY: dummy
-      STRIPE_WEBHOOK_SECRET: dummy
+      STRIPE_API_KEY: sk_test_dummy
+      STRIPE_WEBHOOK_SECRET: whsec_dummy
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
