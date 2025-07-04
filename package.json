@@ -35,7 +35,7 @@
     "react": "^18",
     "react-contenteditable": "^3.3.7",
     "react-dom": "^18",
-    "sonner": "^2.0.5",
+    "sonner": "^2.0.6",
     "stripe": "^14.14.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.7",
