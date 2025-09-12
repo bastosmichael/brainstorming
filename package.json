@@ -11,7 +11,7 @@
     "stripe:trigger": "stripe trigger payment_intent.succeeded"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.5",
+    "@clerk/nextjs": "^6.31.10",
     "@liveblocks/client": "^1.9.7",
     "@liveblocks/node": "^3.6.2",
     "@liveblocks/react": "^1.9.7",
@@ -28,7 +28,7 @@
     "date-fns": "^4.1.0",
     "lucide-react": "^0.544.0",
     "nanoid": "^5.1.5",
-    "next": "14.1.0",
+    "next": "14.2.32",
     "next-themes": "^0.4.6",
     "perfect-freehand": "^1.2.2",
     "query-string": "^9.3.0",
