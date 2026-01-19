@@ -11,7 +11,7 @@
     "stripe:trigger": "stripe trigger payment_intent.succeeded"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.5",
+    "@clerk/nextjs": "^6.36.8",
     "@liveblocks/client": "^1.9.7",
     "@liveblocks/node": "^3.13.2",
     "@liveblocks/react": "^1.9.7",
